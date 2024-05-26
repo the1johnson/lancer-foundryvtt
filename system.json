@@ -1,0 +1,27 @@
+{
+    "id": "lancer",
+    "title": "Lancer",
+    "description": "An implementation of Lancer game system by Massif Press for Foundry Virtual Tabletop.",
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12",
+        "maximum": "12"
+    },
+    "authors": [
+        {
+            "name": "the1johnson",
+            "url": "the1johnson.com",
+            "discord": "tuxedomask7q"
+        }
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "license": "LICENSE.txt",
+    "readme": "README.md"
+}

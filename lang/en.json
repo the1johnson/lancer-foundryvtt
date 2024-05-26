@@ -1,0 +1,13 @@
+{
+    "TYPES": {
+        "Actor": {
+            "character": "Character",
+            "npc": "NPC",
+            "mech": "Mech"
+        },
+        "Item": {
+            "weapon": "Weapon",
+            "gear": "Gear"
+        }
+    }
+}

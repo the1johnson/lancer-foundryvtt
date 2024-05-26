@@ -1,0 +1,53 @@
+{
+    "Actor": {
+        "types": [
+            "character",
+            "npc",
+            "mech"
+        ],
+        "templates": {
+            "base": {
+                "health": {
+                    "value": 10,
+                    "max": 10
+                }
+            }
+        },
+        "character": {
+            "templates": [
+                "base"
+            ]
+        },
+        "npc": {
+            "templates": [
+                "base"
+            ]
+        },
+        "mech": {
+            "templates": [
+                "base"
+            ]
+        }
+    },
+    "Item": {
+        "types": [
+            "weapon",
+            "gear"
+        ],
+        "templates": {
+            "base": {
+                "description": ""
+            }
+        },
+        "weapon": {
+            "base": {
+                "description": ""
+            }
+        },
+        "gear": {
+            "base": {
+                "description": ""
+            }
+        }
+    }
+}
